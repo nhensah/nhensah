@@ -14,7 +14,7 @@ const nhensah = {
      "Automation",
      "UI/UX",
      "Creative Technology"
-   ],
+    ],
 
    languages: [
      "Javascript",
