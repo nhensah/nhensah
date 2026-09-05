@@ -6,7 +6,7 @@ I mainly work across full-stack development, backend systems, databases and auto
 
 I learn by actively diving head first, breaking things, figuring out why they broke and then making the next version 10x better.
 
-Contact me @ nhensah@gmail.com or @swagbeforeyoudie on IG...
+Contact me @ nhensah@gmail.com or [@swagbeforeyoudie](https://www.instagram.com/swagbeforeyoudie/) on IG...
 
 ```js
 const nhensah = {
