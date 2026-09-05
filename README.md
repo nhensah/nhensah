@@ -16,6 +16,26 @@ const nhensah = {
      "Creative Technology"
    ],
 
-  
-}
+   languages: [
+     "Javascript",
+     "TypeScript",
+     "Python"
+    ],
+
+   technologies: [
+     "Next.js",
+     "React",
+     "Node.js",
+     "Prisma",
+     "PostgreSQL"
+    ],
+
+           Currently Building: "[Nafra.xyz](https://nafra.xyz/)",
+
+   openTo: [
+     "Developer Opportunities",
+     "Freelance Projects",
+     "Collaborations"
+    ]
+};
 ```
