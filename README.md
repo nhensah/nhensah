@@ -19,7 +19,9 @@ const nhensah = {
    languages: [
      "Javascript",
      "TypeScript",
-     "Python"
+     "Python",
+     "HTML",
+     "CSS" 
     ],
 
    technologies: [
