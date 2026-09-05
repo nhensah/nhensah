@@ -1,16 +1,17 @@
-## Hi there 👋
+> Who am I?
 
-<!--
-**nhensah/nhensah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nhensah, a developer who enjoys turning idead into real, working projects.
 
-Here are some ideas to get you started:
+I mainly work across full-stack development, backend systems, databases and automation with a strong interest in building platforms from the ground up. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn by actively diving head first, breaking things, figuring out why they broke and then making the next version 10x better.
+
+const nhensah = {
+   interests: [
+     "Full-Stack Development",
+     "Backend Systems",
+     "Automation",
+     "UI/UX",
+     "Creative Technology"
+   ],  
+}
