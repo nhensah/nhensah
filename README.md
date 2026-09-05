@@ -14,4 +14,4 @@ I learn by actively diving head first, breaking things, figuring out why they br
      "UI/UX",
      "Creative Technology"
    ],  
-}
+}`
